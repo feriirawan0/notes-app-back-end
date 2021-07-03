@@ -1,0 +1,3 @@
+git add .
+git commit -m "restructure with hapi plugin"
+git push origin master
