@@ -1,3 +1,8 @@
 git add .
 git commit -m "restructure with hapi plugin"
 git push origin master
+
+
+atasi errro
+Upload Image with Non-Image File
+Halo kak, coba hapus value di body data postman kemudian pilih ulang filenya
